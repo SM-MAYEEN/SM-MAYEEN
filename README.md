@@ -1,7 +1,7 @@
-##### Hi there 👋, I'm Mayeen Uddin 
+############## Hi there 👋, I'm Mayeen Uddin 
 ![]( )
 
-Competitive Programmer  | C++ | Python | HTML | CSS | Bootstrap | PostgreSQL
+                                   Competitive Programmer  | C++ | Python | HTML | CSS | Bootstrap | PostgreSQL
 
 Skills: C/ C++ / HTML / CSS
 

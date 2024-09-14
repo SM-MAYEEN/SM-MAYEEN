@@ -1,12 +1,9 @@
-### Hi there 👋, I'm Mayeen Uddin Hasan
-####  Competitive Programmer
-![ Competitive Programmer]( )
-
- 
+###### Hi 👋, I'm Mayeen Uddin Hasan
+####  currently learning Competitive Programming (Competitive Programmer)
 
 Skills: C / C++ / JS / HTML / CSS
 
-- 🔭 I’m currently working on studying B. Sc In CSE at International Islamic University, Chittagong 
+- 🔭 I’m currently studying B. Sc In CSE at International Islamic University, Chittagong 
 - 🌱 I’m currently learning Competitive Programming (CPS) 
 - 📫 How to reach me: mdmayeen855@gmail.com 
 

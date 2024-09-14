@@ -1,17 +1,23 @@
-<u><h1>Hi 👋, I'm Mayeen Uddin Hasan</h1></u>
-####  currently learning Competitive Programming (Competitive Programmer)
- 
+<u><h1 align="center">Hi 👋, I'm I'm Mayeen Uddin Hasan</h1></u>
+<h3 align="center">currently learning Competitive Programming (Competitive Programmer)</h3>
 
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sm-mayeen&label=Profile%20views&color=0e75b6&style=flat" alt="sm-mayeen" /> </p>
 
-Skills: C / C++ / JS / HTML / CSS
+- 🔭 I’m currently **studying B.Sc In CSE at International Islamic University, Chittagong**
 
-- 🔭 I’m currently working on studying B. Sc In CSE at International Islamic University, Chittagong 
-- 🌱 I’m currently learning Competitive Programming (CPS) 
-- 📫 How to reach me: mdmayeen855@gmail.com 
+- 🌱 I’m currently learning **Competitive Programming (CPS Academy)**
 
+- 👨‍💻 All of my projects are available at [https://github.com/SM-MAYEEN?tab=repositories](https://github.com/SM-MAYEEN?tab=repositories)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SM-MAYEEN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mayeen Uddin hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdmayeen97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Mayeen Uddin Hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/mdmayeen855)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/mayeen_47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/mayeenUddinHasan)  
+- 📫 How to reach me **mdmayeen855@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SM-MAYEEN)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/mayeen uddin hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayeen uddin hasan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mayeen uddin hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayeen uddin hasan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mayeenuddinhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mayeenuddinhasan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
